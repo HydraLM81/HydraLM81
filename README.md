@@ -11,6 +11,7 @@ Currently learning:
 
 Currently working on:
 - An interactive IDE for Python, written in Python with PyGame. *Totally* a great idea.
+- Gmail client for Discord (My school blocked Discord)
 
 Reach me at:
 - Discord: [@HydraLM](https://discordapp.com/users/521018865006673950) / [HydraLM#9022](https://discordapp.com/users/521018865006673950)
